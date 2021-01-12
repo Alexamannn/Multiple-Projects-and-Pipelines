@@ -1,0 +1,8 @@
+voila
+selenium
+bs4
+requests
+pandas
+numpy
+googlesearch-python
+nltk
